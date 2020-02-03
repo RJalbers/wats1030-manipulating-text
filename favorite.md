@@ -1,0 +1,1 @@
+I think my favorite editor to use was Vi. At first it seemed complicated, but once you get the basics of it down it was very easy to use. I took the most time with Nano and emacs. Maybe because I was just still getting use navigating through files like this. 
